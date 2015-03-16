@@ -1,4 +1,5 @@
 Script started on 2015年03月16日 (週一) 13時39分37秒
+<<<<<<< HEAD
 ]0;F24014041@2015cpp: ~F24014041@2015cpp:~$ wha[Koami;pwd
 F24014041
 /home/F24014041
@@ -6,5 +7,14 @@ F24014041
 ]0;F24014041@2015cpp: ~F24014041@2015cpp:~$ git clone http;//[K[K[K?[K://git [Khub.com.[K/David9531/lab.git[K[K[K[K1.git
 fatal: destination path 'lab1' already exists and is not an empty directory.
 ]0;F24014041@2015cpp: ~F24014041@2015cpp:~$ exit
+=======
+]0;F24014041@2015cpp: ~F24014041@2015cpp:~$ wha[Koami;pwd
+F24014041
+/home/F24014041
+]0;F24014041@2015cpp: ~F24014041@2015cpp:~$ git config -l
+]0;F24014041@2015cpp: ~F24014041@2015cpp:~$ git clone http;//[K[K[K?[K://git [Khub.com.[K/David9531/lab.git[K[K[K[K1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F24014041@2015cpp: ~F24014041@2015cpp:~$ exit
+>>>>>>> d957f1216782bb85a928da8eaed1daa7a0a1912b
 
 Script done on 2015年03月16日 (週一) 13時41分32秒
